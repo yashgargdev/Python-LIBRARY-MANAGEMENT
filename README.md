@@ -70,6 +70,6 @@ This is an open-source project built for educational purposes. Feedback and cont
 
 This project is licensed under the GPL V3 License.
 
----
+--
 
 Enjoy managing your library with ease!
